@@ -1,0 +1,41 @@
+
+===== PAGE 1 =====
+MARCH 2, 2026 DUQUESNE LIGHT COMPANY DSP-X WHOLESALE POWER PROCUREMENT RESULTS
+
+The winning bids for the Duquesne Light Company DSP Auctions held on March 2, 2026 have been
+finalized and approved by the Pennsylvania Public Utility Commission.
+
+
+The next solicitation is scheduled for September 2026 for Residential/Small C&I/Medium C&I customers.
+
+
+Results for March 2026 DSP-X Fixed-Price Auction
+
+             % of Default
+                         Service                                       #       Winning
+             Tranche    Load                                    Tranches     Price
+ Class        Target   Procured    Term        Delivery Period      Procured   ($/MWh)
+
+ Residential     12      25.0%    12 Months   Jun 2026 – May 2027      12        $98.88
+
+ Residential      6       12.5%    24 Months   Jun 2026 – May 2028       6        $99.25
+
+ Small C&I      2       25.0%    12 Months   Jun 2026 – May 2027       2        $86.96
+
+ Small C&I      1       12.5%    24 Months   Jun 2026 – May 2028       1        $87.76
+
+ Medium C&I     2       50.0%    6 Months    Jun 2026 – Nov 2026       2        $83.60
+
+ Medium C&I     1       25.0%    12 Months   Jun 2026 – May 2027       1        $86.30
+
+
+
+
+Results for March 2026 DSP-X Hourly-Priced Auction
+
+             % of Default
+                         Service                                       #      Winning
+             Tranche    Load                                     Tranches    Price
+ Class        Target   Procured    Term        Delivery Period      Procured   ($/MWh)
+
+ Large C&I       2      100.0%   12 Months    Jun 2026 – May 2027       2        $18.33

@@ -1,0 +1,20 @@
+
+===== PAGE 1 =====
+SEPTEMBER 20, 2021 DUQUESNE LIGHT COMPANY DSP-IX WHOLESALE POWER PROCUREMENT RESULTS
+
+The winning bids for the Duquesne Light Company DSP Auction held on September 20, 2021, have been
+finalized and approved by the Pennsylvania Public Utility Commission.
+
+The next solicitation is scheduled for December 2021 for Medium C&I customers.
+
+Results for September 2021 DSP-IX Fixed-Price Auction
+
+             % of Default                                      #      Winning
+            Tranche Service Load                                  Tranches     Price
+ Class        Target   Procured     Term        Delivery Period      Procured   ($/MWh)
+
+ Residential     12      25.0%     12 Months   Dec 2021 – Nov 2022      12        63.51
+ Residential     6       12.5%     24 Months   Dec 2021 – Nov 2023       6        56.45
+ Small C&I      2       25.0%     12 Months   Dec 2021 – Nov 2022       2        59.55
+ Small C&I      1       12.5%     24 Months   Dec 2021 – Nov 2023       1        53.50
+ Medium C&I    4      100%     3 Months    Dec 2021 – Feb 2022       4        75.22

@@ -1,0 +1,25 @@
+
+===== PAGE 1 =====
+                    PPL Electric Utilities Corporation
+                     DSP 5, Solicitation 1 Results
+                           Completed April 6, 2021
+                          Delivery Term begins June 1, 2021
+                          Average Prices are $ / MWh
+
+Product                        Term          Tranches      Average Price
+Residential Fixed Price FR         12-Months           16              $45.17
+Residential Fixed Price FR         6-Months            8              $41.62
+Small C&I Fixed Price FR          12-Months           6              $42.87
+Small C&I Fixed Price FR           6-Months            9              $39.47
+Large C&I (Spot Market)           12-Months           10              $1.61
+Block Supply (Fixed Price)           5-Year             2              $25.95
+
+Notes:
+  1 -
+         Prices do not reflect taxes and other cost used to derive the retail price to customers.
+
+
+
+
+
+                             #

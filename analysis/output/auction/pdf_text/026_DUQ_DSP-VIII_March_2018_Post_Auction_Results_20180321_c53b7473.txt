@@ -1,0 +1,37 @@
+
+===== PAGE 1 =====
+MARCH 19, 2018 DUQUESNE LIGHT COMPANY DSP-VIII WHOLESALE POWER PROCUREMENT RESULTS
+
+The winning bids for the Duquesne Light Company DSP held on March 19, 2018, have been finalized and
+approved by the Pennsylvania Public Utility Commission.
+
+
+The next solicitation is scheduled for June 2018 for Medium C&I customers.
+
+
+Results for March 2018 DSP-VIII Fixed-Price Auction
+
+             % of Default                                      #      Winning
+            Tranche Service Load                                  Tranches     Price
+ Class        Target   Procured     Term        Delivery Period      Procured   ($/MWh)
+
+ Residential     12      25.0%     12 Months   June 2018 – May 2019      12       $56.62
+
+ Residential     6       12.5%     24 Months   June 2018 – May 2020      6        $52.05
+
+ Small C&I      2       25.0%     12 Months   June 2018 – May 2019      2        $53.02
+
+ Small C&I      1       12.5%     24 Months   June 2018 – May 2020      1        $49.13
+
+ Medium C&I    4      100%     3 Months  June 2018 – August 2018     4        $50.86
+
+
+
+
+Results for March 2018 DSP-VIII Hourly-Priced Auction
+
+           % of Default                                      #      Winning
+          Tranche Service Load                                  Tranches     Price
+ Class      Target   Procured     Term        Delivery Period      Procured   ($/MWh)
+
+ Large C&I    2      100.0%    12 Months   June 2018 – May 2019      2        $0.91

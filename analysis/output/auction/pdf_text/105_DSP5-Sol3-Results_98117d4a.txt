@@ -1,0 +1,18 @@
+
+===== PAGE 1 =====
+                    PPL Electric Utilities Corporation
+                     DSP 5, Solicitation 3 Results
+                          Completed April 12, 2022
+                          Delivery Term begins June 1, 2022
+                          Average Prices are $ / MWh
+
+Product                        Term          Tranches      Average Price
+Residential Fixed Price FR         12-Months           16             $100.20
+Residential Fixed Price FR         6-Months            8              $92.61
+Small C&I Fixed Price FR          12-Months           6              $94.43
+Small C&I Fixed Price FR           6-Months            9              $90.31
+Large C&I Spot Market            12-Months           10              $0.66
+
+Notes:
+  1 -
+         Prices do not reflect taxes and other cost used to derive the retail price to customers.
